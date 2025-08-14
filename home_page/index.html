@@ -161,7 +161,13 @@
       // 当前图片编号和最大值
       let currentIndex = 1;
       const maxIndex = 4;
-    
+      const preloadedImages = [];  
+
+      for (let i = 1; i <= maxIndex; i++) {
+        const img = new Image();         // 创建一个新的 Image 对象
+        img.src = '/imgs/' + i + '.jpg'; // 设置图片路径（绝对路径更稳妥）
+        preloadedImages.push(img);       // 存入数组
+      }
       // 获取显示图片的元素
       const rectangleImg = document.querySelector('.rectangle');
     
@@ -190,14 +196,14 @@
       // 左箭头点击事件
       document.querySelector('.group').addEventListener('click', () => {
         currentIndex = currentIndex > 1 ? currentIndex - 1 : maxIndex;
-        rectangleImg.src = '/imgs/' + currentIndex + '.jpg';
+        rectangleImg.src = preloadedImages[currentIndex - 1].src;
         updateBlocks();
       });
     
       // 右箭头点击事件
       document.querySelector('.overlap-group').addEventListener('click', () => {
         currentIndex = currentIndex < maxIndex ? currentIndex + 1 : 1;
-        rectangleImg.src = '/imgs/' + currentIndex + '.jpg';
+        rectangleImg.src = preloadedImages[currentIndex - 1].src;
         updateBlocks();
       });
 

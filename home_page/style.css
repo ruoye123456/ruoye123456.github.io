@@ -1,0 +1,604 @@
+.HOME {
+    position: relative;
+    width: 1920px;
+    height: 1578px;
+    background-color: #ffffff;
+    overflow: hidden;
+  }
+  
+  .HOME .rectangle {
+    position: absolute;
+    width: 869px;
+    height: 465px;
+    top: 249px;
+    left: 162px;
+    object-fit: cover;
+  }
+  
+  .HOME .div {
+    position: absolute;
+    width: 44px;
+    height: 15px;
+    top: 727px;
+    left: 480px;
+    background-color: var(--x-1);
+  }
+  
+  .HOME .rectangle-2 {
+    position: absolute;
+    width: 44px;
+    height: 15px;
+    top: 727px;
+    left: 543px;
+    background-color: var(--x-2j1m6s);
+  }
+  
+  .HOME .rectangle-3 {
+    position: absolute;
+    width: 44px;
+    height: 15px;
+    top: 727px;
+    left: 606px;
+    background-color: var(--x-2j1m6s);
+  }
+  
+  .HOME .rectangle-4 {
+    position: absolute;
+    width: 44px;
+    height: 15px;
+    top: 727px;
+    left: 669px;
+    background-color: var(--x-2j1m6s);
+  }
+  
+  .HOME .overlap {
+    position: absolute;
+    width: 50px;
+    height: 74px;
+    top: 445px;
+    left: 80px;
+  }
+  
+  .HOME .rectangle-5 {
+    position: absolute;
+    width: 49px;
+    height: 74px;
+    top: 0;
+    left: 0;
+    background-color: #d9d9d9;
+  }
+  
+  .HOME .group {
+    position: absolute;
+    width: 49px;
+    height: 74px;
+    top: 0;
+    left: 1px;
+  }
+  
+  .HOME .overlap-group {
+    position: absolute;
+    width: 49px;
+    height: 74px;
+    top: 445px;
+    left: 1064px;
+    background-color: #d9d9d9;
+    background-image: url(https://c.animaapp.com/me9qwtbgc28lf1/img/group-28.png);
+    background-size: 100% 100%;
+  }
+  
+  .HOME .overlap-2 {
+    position: absolute;
+    width: 1930px;
+    height: 220px;
+    top: 18px;
+    left: 0;
+  }
+  
+  .HOME .group-2 {
+    position: absolute;
+    width: 1930px;
+    height: 202px;
+    top: 0;
+    left: 0;
+  }
+  
+  .HOME .img {
+    position: absolute;
+    width: 485px;
+    height: 74px;
+    top: 98px;
+    left: 1374px;
+    object-fit: cover;
+  }
+  
+  .HOME .rectangle-6 {
+    position: absolute;
+    width: 120px;
+    height: 6px;
+    top: 103px;
+    left: 80px;
+    background-color: var(--x-1);
+    border-radius: 3px;
+  }
+  
+  .HOME .line {
+    position: absolute;
+    width: 1919px;
+    height: 1px;
+    top: 66px;
+    left: 0;
+    object-fit: cover;
+  }
+  
+  .HOME .line-2 {
+    position: absolute;
+    width: 1919px;
+    height: 1px;
+    top: 201px;
+    left: 1px;
+    object-fit: cover;
+  }
+  
+  .HOME .group-3 {
+    position: absolute;
+    width: 1688px;
+    height: 60px;
+    top: 0;
+    left: 104px;
+  }
+  
+  .HOME .text-wrapper {
+    position: absolute;
+    top: 12px;
+    left: 0;
+    font-family: "Microsoft YaHei UI-Regular", Helvetica;
+    font-weight: 400;
+    color: #333333;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .HOME .view {
+    position: absolute;
+    width: 430px;
+    height: 60px;
+    top: 0;
+    left: 1256px;
+  }
+  
+  .HOME .group-4 {
+    position: absolute;
+    width: 21px;
+    height: 22px;
+    top: 14px;
+    left: 25px;
+  }
+  
+  .HOME .rectangle-7 {
+    position: absolute;
+    width: 360px;
+    height: 36px;
+    top: 7px;
+    left: 70px;
+    border-radius: 10px;
+    border: 2px solid;
+    border-color: #999999;
+  }
+  
+  .HOME .text-wrapper-2 {
+    left: 108px;
+    position: absolute;
+    top: 128px;
+    font-family: "Microsoft YaHei UI-Regular", Helvetica;
+    font-weight: 400;
+    color: #333333;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .HOME .text-wrapper-3 {
+    position: absolute;
+    top: 128px;
+    left: 241px;
+    font-family: "Microsoft YaHei UI-Regular", Helvetica;
+    font-weight: 400;
+    color: #333333;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .HOME .text-wrapper-4 {
+    left: 385px;
+    text-align: center;
+    position: absolute;
+    top: 128px;
+    font-family: "Microsoft YaHei UI-Regular", Helvetica;
+    font-weight: 400;
+    color: #333333;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .HOME .text-wrapper-5 {
+    position: absolute;
+    top: 128px;
+    left: 558px;
+    font-family: "Microsoft YaHei UI-Regular", Helvetica;
+    font-weight: 400;
+    color: #333333;
+    font-size: 20px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .HOME .text-wrapper-6 {
+    position: absolute;
+    top: 128px;
+    left: 764px;
+    font-family: "Microsoft YaHei UI-Regular", Helvetica;
+    font-weight: 400;
+    color: #333333;
+    font-size: 20px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .HOME .text-wrapper-7 {
+    position: absolute;
+    top: 127px;
+    left: 908px;
+    font-family: "Microsoft YaHei UI-Regular", Helvetica;
+    font-weight: 400;
+    color: #333333;
+    font-size: 20px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .HOME .mark-bottom {
+    position: absolute;
+    width: 485px;
+    height: 40px;
+    top: 180px;
+    left: 1374px;
+  }
+  
+  .HOME .div-2 {
+    position: absolute;
+    width: 485px;
+    height: 15px;
+    top: 0;
+    left: 0;
+  }
+  
+  .HOME .line-a {
+    position: absolute;
+    width: 1px;
+    height: 15px;
+    top: 0;
+    left: -1px;
+    object-fit: cover;
+  }
+  
+  .HOME .line-b {
+    position: absolute;
+    width: 485px;
+    height: 1px;
+    top: 7px;
+    left: 0;
+    object-fit: cover;
+  }
+  
+  .HOME .line-c {
+    position: absolute;
+    width: 1px;
+    height: 15px;
+    top: 0;
+    left: 484px;
+    object-fit: cover;
+  }
+  
+  .HOME .texts {
+    position: absolute;
+    width: 47px;
+    height: 24px;
+    top: 16px;
+    left: 220px;
+  }
+  
+  .HOME .dimension-value-wrapper {
+    position: relative;
+    width: 45px;
+    height: 24px;
+    background-color: #eb0028;
+    border-radius: 3px;
+  }
+  
+  .HOME .dimension-value {
+    position: absolute;
+    height: 16px;
+    top: 4px;
+    left: 4px;
+    font-family: "Roboto Mono", Helvetica;
+    font-weight: 500;
+    color: #ffffff;
+    font-size: 12px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .HOME .text-wrapper-8 {
+    position: absolute;
+    top: 819px;
+    left: 162px;
+    font-family: "Microsoft YaHei UI-Bold", Helvetica;
+    font-weight: 700;
+    color: #4c4c4c;
+    font-size: 32px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .HOME .the-ultimate-vision {
+    position: absolute;
+    width: 869px;
+    top: 894px;
+    left: 162px;
+    font-family: "Microsoft YaHei UI-Regular", Helvetica;
+    font-weight: 400;
+    color: #4c4c4c;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: 30px;
+  }
+  
+  .HOME .span {
+    font-family: "Microsoft YaHei UI-Regular", Helvetica;
+    font-weight: 400;
+    color: #4c4c4c;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: 30px;
+  }
+  
+  .HOME .text-wrapper-9 {
+    font-family: "Microsoft YaHei UI-Bold", Helvetica;
+    font-weight: 700;
+  }
+  
+  .HOME .sketchx-has-been {
+    position: absolute;
+    width: 869px;
+    top: 1044px;
+    left: 162px;
+    font-family: "Microsoft YaHei UI-Regular", Helvetica;
+    font-weight: 400;
+    color: transparent;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: 30px;
+  }
+  
+  .HOME .text-wrapper-10 {
+    color: #4c4c4c;
+  }
+  
+  .HOME .text-wrapper-11 {
+    color: #04a3ed;
+  }
+  
+  .HOME .text-wrapper-12 {
+    color: #04a3ed;
+    text-decoration: underline;
+  }
+  
+  .HOME .p {
+    position: absolute;
+    width: 869px;
+    top: 1194px;
+    left: 162px;
+    font-family: "Microsoft YaHei UI-Regular", Helvetica;
+    font-weight: 400;
+    color: #4c4c4c;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: 30px;
+  }
+  
+  .HOME .text-wrapper-13 {
+    position: absolute;
+    width: 869px;
+    top: 1344px;
+    left: 162px;
+    font-family: "Microsoft YaHei UI-Regular", Helvetica;
+    font-weight: 400;
+    color: #4c4c4c;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: 30px;
+  }
+  
+  .HOME .NEWS {
+    display: flex;
+    flex-direction: column;
+    width: 441px;
+    align-items: flex-start;
+    gap: 11px;
+    position: absolute;
+    top: 361px;
+    left: 1374px;
+  }
+  
+  .HOME .element-papers-being {
+    position: relative;
+    align-self: stretch;
+    margin-top: -1.00px;
+    font-family: "Microsoft YaHei UI-Regular", Helvetica;
+    font-weight: 400;
+    color: #666666;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .HOME .text-wrapper-14 {
+    position: relative;
+    align-self: stretch;
+    font-family: "Microsoft YaHei UI-Light", Helvetica;
+    font-weight: 300;
+    color: #999999;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .HOME .line-3 {
+    position: relative;
+    align-self: stretch;
+    width: 100%;
+    height: 1px;
+    object-fit: cover;
+  }
+  
+  .HOME .text-wrapper-15 {
+    position: relative;
+    align-self: stretch;
+    font-family: "Microsoft YaHei UI-Regular", Helvetica;
+    font-weight: 400;
+    color: #666666;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .HOME .please-email-yi-zhe {
+    position: absolute;
+    width: 441px;
+    top: 1143px;
+    left: 1374px;
+    font-family: "Microsoft YaHei UI-Regular", Helvetica;
+    font-weight: 400;
+    color: transparent;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .HOME .text-wrapper-16 {
+    color: #666666;
+  }
+  
+  .HOME .overlap-group-wrapper {
+    position: absolute;
+    width: 442px;
+    height: 52px;
+    top: 1072px;
+    left: 1374px;
+  }
+  
+  .HOME .overlap-group-2 {
+    position: relative;
+    width: 436px;
+    height: 52px;
+  }
+  
+  .HOME .group-5 {
+    position: absolute;
+    width: 436px;
+    height: 52px;
+    top: 0;
+    left: 0;
+  }
+  
+  .HOME .rectangle-8 {
+    position: absolute;
+    width: 9px;
+    height: 52px;
+    top: 0;
+    left: 0;
+    background-color: var(--x-1);
+  }
+  
+  .HOME .rectangle-9 {
+    position: absolute;
+    width: 427px;
+    height: 52px;
+    top: 0;
+    left: 9px;
+    background-color: var(--x-2j1m6s);
+  }
+  
+  .HOME .text-wrapper-17 {
+    position: absolute;
+    top: 13px;
+    left: 40px;
+    font-family: "Microsoft YaHei UI-Bold", Helvetica;
+    font-weight: 700;
+    color: #333333;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .HOME .view-2 {
+    position: absolute;
+    width: 1920px;
+    height: 73px;
+    top: 1505px;
+    left: 0;
+    background-color: #000000;
+  }
+  
+  .HOME .text-wrapper-18 {
+    position: absolute;
+    top: 26px;
+    left: 162px;
+    font-family: "Microsoft YaHei UI-Light", Helvetica;
+    font-weight: 300;
+    color: #e6e6e6;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .HOME .wordpress-theme {
+    position: absolute;
+    top: 26px;
+    left: 1577px;
+    font-family: "Microsoft YaHei UI-Light", Helvetica;
+    font-weight: 300;
+    color: transparent;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .HOME .text-wrapper-19 {
+    color: #e6e6e6;
+  }
+  
+  .HOME .text-wrapper-20 {
+    color: #7f7f7f;
+  }
+  
+  .HOME .text-wrapper-21 {
+    color: #999999;
+    text-decoration: underline;
+  }
+  
+  .HOME .overlap-wrapper {
+    position: absolute;
+    width: 442px;
+    height: 52px;
+    top: 290px;
+    left: 1374px;
+  }
+  

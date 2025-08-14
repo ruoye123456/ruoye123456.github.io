@@ -1,0 +1,944 @@
+.PEOPLE {
+    width: 1920px;
+    height: 3417px;
+    background-color: #ffffff;
+    overflow: hidden;
+  }
+  
+  .PEOPLE .group {
+    position: relative;
+    width: 1940px;
+    height: 3397px;
+    top: 20px;
+  }
+  
+  .PEOPLE .rectangle {
+    position: absolute;
+    width: 485px;
+    height: 74px;
+    top: 97px;
+    left: 1374px;
+    object-fit: cover;
+  }
+  
+  .PEOPLE .line {
+    top: 66px;
+    left: 0;
+    position: absolute;
+    width: 1919px;
+    height: 1px;
+    object-fit: cover;
+  }
+  
+  .PEOPLE .img {
+    top: 200px;
+    left: 1px;
+    position: absolute;
+    width: 1919px;
+    height: 1px;
+    object-fit: cover;
+  }
+  
+  .PEOPLE .navbar {
+    position: absolute;
+    width: 782px;
+    height: 62px;
+    top: 103px;
+    left: 80px;
+  }
+  
+  .PEOPLE .div {
+    position: absolute;
+    width: 131px;
+    height: 6px;
+    top: 0;
+    left: 132px;
+    background-color: var(--x-1);
+    border-radius: 3px;
+  }
+  
+  .PEOPLE .text-wrapper {
+    left: 28px;
+    color: #333333;
+    position: absolute;
+    top: 24px;
+    font-family: "Microsoft YaHei UI-Regular", Helvetica;
+    font-weight: 400;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .PEOPLE .text-wrapper-2 {
+    left: 161px;
+    color: #333333;
+    position: absolute;
+    top: 24px;
+    font-family: "Microsoft YaHei UI-Regular", Helvetica;
+    font-weight: 400;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .PEOPLE .text-wrapper-3 {
+    position: absolute;
+    top: 24px;
+    left: 305px;
+    font-family: "Microsoft YaHei UI-Regular", Helvetica;
+    font-weight: 400;
+    color: #333333;
+    font-size: 20px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .PEOPLE .text-wrapper-4 {
+    left: 478px;
+    color: #333333;
+    text-align: center;
+    position: absolute;
+    top: 24px;
+    font-family: "Microsoft YaHei UI-Regular", Helvetica;
+    font-weight: 400;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .PEOPLE .text-wrapper-5 {
+    left: 684px;
+    color: #333333;
+    text-align: center;
+    position: absolute;
+    top: 24px;
+    font-family: "Microsoft YaHei UI-Regular", Helvetica;
+    font-weight: 400;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .PEOPLE .text-wrapper-6 {
+    left: 827px;
+    color: #000000;
+    text-align: center;
+    position: absolute;
+    top: 24px;
+    font-family: "Microsoft YaHei UI-Regular", Helvetica;
+    font-weight: 400;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .PEOPLE .view {
+    position: absolute;
+    width: 327px;
+    height: 484px;
+    top: 298px;
+    left: 161px;
+  }
+  
+  .PEOPLE .text-wrapper-7 {
+    position: absolute;
+    top: 384px;
+    left: 2px;
+    font-family: "Microsoft YaHei UI-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .PEOPLE .p {
+    position: absolute;
+    width: 298px;
+    top: 419px;
+    left: 1px;
+    font-family: "Microsoft YaHei UI-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .PEOPLE .text-wrapper-8 {
+    position: absolute;
+    width: 298px;
+    top: 489px;
+    left: 29px;
+    font-family: "Microsoft YaHei UI-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .PEOPLE .text-wrapper-9 {
+    position: absolute;
+    width: 298px;
+    top: 524px;
+    left: 29px;
+    font-family: "Microsoft YaHei UI-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .PEOPLE .overlap-group-wrapper {
+    position: absolute;
+    width: 299px;
+    height: 299px;
+    top: 0;
+    left: 0;
+    box-shadow: 0px 4px 30px #e96a0533;
+  }
+  
+  .PEOPLE .overlap-group {
+    position: relative;
+    width: 343px;
+    height: 343px;
+    top: -18px;
+    left: -22px;
+    background-image: url(https://c.animaapp.com/me9s1roogOWw6o/img/ellipse-9-1.png);
+    background-size: cover;
+    background-position: 50% 50%;
+  }
+  
+  .PEOPLE .ellipse {
+    position: relative;
+    width: 299px;
+    height: 299px;
+    top: 18px;
+    left: 22px;
+    border-radius: 149.5px;
+    border: 1px solid;
+    border-color: #f1f2f3;
+  }
+  
+  .PEOPLE .social {
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    top: 526px;
+    left: 1px;
+    border-radius: 2px;
+    object-fit: cover;
+  }
+  
+  .PEOPLE .image {
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    top: 491px;
+    left: 1px;
+    object-fit: cover;
+  }
+  
+  .PEOPLE .visitors-past {
+    position: absolute;
+    top: 3059px;
+    left: 814px;
+    font-family: "Microsoft YaHei UI-Bold", Helvetica;
+    font-weight: 700;
+    color: #333333;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .PEOPLE .text-wrapper-10 {
+    position: absolute;
+    top: 271px;
+    left: 808px;
+    font-family: "Microsoft YaHei UI-Bold", Helvetica;
+    font-weight: 700;
+    color: #333333;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .PEOPLE .text-wrapper-11 {
+    position: absolute;
+    top: 628px;
+    left: 808px;
+    font-family: "Microsoft YaHei UI-Bold", Helvetica;
+    font-weight: 700;
+    color: #333333;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .PEOPLE .text-wrapper-12 {
+    position: absolute;
+    top: 1003px;
+    left: 808px;
+    font-family: "Microsoft YaHei UI-Bold", Helvetica;
+    font-weight: 700;
+    color: #333333;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .PEOPLE .text-wrapper-13 {
+    position: absolute;
+    top: 2278px;
+    left: 814px;
+    font-family: "Microsoft YaHei UI-Bold", Helvetica;
+    font-weight: 700;
+    color: #333333;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .PEOPLE .text-wrapper-14 {
+    position: absolute;
+    top: 628px;
+    left: 1012px;
+    font-family: "Microsoft YaHei UI-Bold", Helvetica;
+    font-weight: 700;
+    color: #333333;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .PEOPLE .text-wrapper-15 {
+    position: absolute;
+    top: 271px;
+    left: 1012px;
+    font-family: "Microsoft YaHei UI-Bold", Helvetica;
+    font-weight: 700;
+    color: #333333;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .PEOPLE .element {
+    top: 316px;
+    left: 808px;
+    position: absolute;
+    width: 159px;
+    height: 262px;
+  }
+  
+  .PEOPLE .overlap {
+    position: relative;
+    width: 193px;
+    height: 275px;
+    top: -13px;
+    left: -17px;
+  }
+  
+  .PEOPLE .text-wrapper-16 {
+    position: absolute;
+    width: 173px;
+    top: 240px;
+    left: 10px;
+    font-family: "Microsoft YaHei UI-Light", Helvetica;
+    font-weight: 300;
+    color: var(--x-3);
+    font-size: 15px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+    text-decoration: underline;
+  }
+  
+  .PEOPLE .rectangle-2 {
+    position: absolute;
+    width: 159px;
+    height: 262px;
+    top: 13px;
+    left: 17px;
+    border-radius: 10px;
+    border: 1px solid;
+    border-color: #f1f2f3;
+    box-shadow: 0px 4px 20px 5px #0000000d;
+  }
+  
+  .PEOPLE .rectangle-3 {
+    position: absolute;
+    width: 193px;
+    height: 244px;
+    top: 0;
+    left: 0;
+    border-radius: 10px;
+    object-fit: cover;
+  }
+  
+  .PEOPLE .overlap-wrapper {
+    top: 316px;
+    left: 1010px;
+    position: absolute;
+    width: 159px;
+    height: 262px;
+  }
+  
+  .PEOPLE .div-wrapper {
+    top: 316px;
+    left: 1209px;
+    position: absolute;
+    width: 159px;
+    height: 262px;
+  }
+  
+  .PEOPLE .element-2 {
+    top: 316px;
+    left: 1408px;
+    position: absolute;
+    width: 159px;
+    height: 262px;
+  }
+  
+  .PEOPLE .element-3 {
+    top: 691px;
+    left: 809px;
+    position: absolute;
+    width: 159px;
+    height: 262px;
+  }
+  
+  .PEOPLE .element-4 {
+    top: 691px;
+    left: 1013px;
+    position: absolute;
+    width: 159px;
+    height: 262px;
+  }
+  
+  .PEOPLE .element-5 {
+    top: 691px;
+    left: 1212px;
+    position: absolute;
+    width: 159px;
+    height: 262px;
+  }
+  
+  .PEOPLE .element-6 {
+    top: 691px;
+    left: 1411px;
+    position: absolute;
+    width: 159px;
+    height: 262px;
+  }
+  
+  .PEOPLE .element-7 {
+    top: 1066px;
+    left: 808px;
+    position: absolute;
+    width: 159px;
+    height: 262px;
+  }
+  
+  .PEOPLE .element-8 {
+    top: 1366px;
+    left: 808px;
+    position: absolute;
+    width: 159px;
+    height: 262px;
+  }
+  
+  .PEOPLE .element-9 {
+    top: 1666px;
+    left: 1209px;
+    position: absolute;
+    width: 159px;
+    height: 262px;
+  }
+  
+  .PEOPLE .element-10 {
+    top: 1966px;
+    left: 811px;
+    position: absolute;
+    width: 159px;
+    height: 262px;
+  }
+  
+  .PEOPLE .element-11 {
+    top: 1366px;
+    left: 1010px;
+    position: absolute;
+    width: 159px;
+    height: 262px;
+  }
+  
+  .PEOPLE .element-12 {
+    top: 1366px;
+    left: 1209px;
+    position: absolute;
+    width: 159px;
+    height: 262px;
+  }
+  
+  .PEOPLE .element-13 {
+    top: 1369px;
+    left: 1604px;
+    position: absolute;
+    width: 159px;
+    height: 262px;
+  }
+  
+  .PEOPLE .element-14 {
+    top: 1066px;
+    left: 1405px;
+    position: absolute;
+    width: 159px;
+    height: 262px;
+  }
+  
+  .PEOPLE .element-15 {
+    top: 1066px;
+    left: 1604px;
+    position: absolute;
+    width: 159px;
+    height: 262px;
+  }
+  
+  .PEOPLE .element-16 {
+    top: 1066px;
+    left: 1007px;
+    position: absolute;
+    width: 159px;
+    height: 262px;
+  }
+  
+  .PEOPLE .text-wrapper-17 {
+    position: absolute;
+    width: 147px;
+    top: 240px;
+    left: 23px;
+    font-family: "Microsoft YaHei UI-Light", Helvetica;
+    font-weight: 300;
+    color: #000000;
+    font-size: 15px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .PEOPLE .element-17 {
+    top: 1066px;
+    left: 1206px;
+    position: absolute;
+    width: 159px;
+    height: 262px;
+  }
+  
+  .PEOPLE .element-18 {
+    top: 1366px;
+    left: 1408px;
+    position: absolute;
+    width: 159px;
+    height: 262px;
+  }
+  
+  .PEOPLE .element-19 {
+    top: 1666px;
+    left: 808px;
+    position: absolute;
+    width: 159px;
+    height: 262px;
+  }
+  
+  .PEOPLE .element-20 {
+    top: 1666px;
+    left: 1010px;
+    position: absolute;
+    width: 159px;
+    height: 262px;
+  }
+  
+  .PEOPLE .element-21 {
+    top: 1666px;
+    left: 1607px;
+    position: absolute;
+    width: 159px;
+    height: 262px;
+  }
+  
+  .PEOPLE .element-22 {
+    position: absolute;
+    width: 159px;
+    height: 262px;
+    top: 1666px;
+    left: 1408px;
+  }
+  
+  .PEOPLE .text-wrapper-18 {
+    position: absolute;
+    width: 109px;
+    top: 229px;
+    left: 42px;
+    font-family: "Microsoft YaHei UI-Light", Helvetica;
+    font-weight: 300;
+    color: var(--x-3);
+    font-size: 15px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+    text-decoration: underline;
+  }
+  
+  .PEOPLE .overlap-2 {
+    position: absolute;
+    width: 159px;
+    height: 300px;
+    top: 2341px;
+    left: 814px;
+  }
+  
+  .PEOPLE .element-23 {
+    position: absolute;
+    width: 159px;
+    height: 300px;
+    top: 0;
+    left: 0;
+  }
+  
+  .PEOPLE .overlap-3 {
+    position: relative;
+    width: 193px;
+    height: 313px;
+    top: -13px;
+    left: -17px;
+  }
+  
+  .PEOPLE .text-wrapper-19 {
+    position: absolute;
+    top: 240px;
+    left: 66px;
+    font-family: "Microsoft YaHei UI-Light", Helvetica;
+    font-weight: 300;
+    color: var(--x-3);
+    font-size: 15px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .PEOPLE .rectangle-4 {
+    position: absolute;
+    width: 159px;
+    height: 300px;
+    top: 13px;
+    left: 17px;
+    border-radius: 10px;
+    border: 1px solid;
+    border-color: #f1f2f3;
+    box-shadow: 0px 4px 20px 5px #0000000d;
+  }
+  
+  .PEOPLE .text-wrapper-20 {
+    position: absolute;
+    width: 153px;
+    top: 274px;
+    left: 20px;
+    font-family: "Microsoft YaHei UI-Light", Helvetica;
+    font-weight: 300;
+    color: #000000;
+    font-size: 13px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .PEOPLE .text-wrapper-21 {
+    left: 66px;
+    position: absolute;
+    top: 240px;
+    font-family: "Microsoft YaHei UI-Light", Helvetica;
+    font-weight: 300;
+    color: var(--x-3);
+    font-size: 15px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+    text-decoration: underline;
+  }
+  
+  .PEOPLE .element-24 {
+    top: 2679px;
+    left: 817px;
+    position: absolute;
+    width: 159px;
+    height: 300px;
+  }
+  
+  .PEOPLE .anran-qi {
+    left: 69px;
+    position: absolute;
+    top: 240px;
+    font-family: "Microsoft YaHei UI-Light", Helvetica;
+    font-weight: 300;
+    color: var(--x-3);
+    font-size: 15px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+    text-decoration: underline;
+  }
+  
+  .PEOPLE .element-25 {
+    top: 2341px;
+    left: 1013px;
+    position: absolute;
+    width: 159px;
+    height: 300px;
+  }
+  
+  .PEOPLE .anran-qi-2 {
+    left: 55px;
+    position: absolute;
+    top: 240px;
+    font-family: "Microsoft YaHei UI-Light", Helvetica;
+    font-weight: 300;
+    color: var(--x-3);
+    font-size: 15px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+    text-decoration: underline;
+  }
+  
+  .PEOPLE .element-26 {
+    top: 2679px;
+    left: 1016px;
+    position: absolute;
+    width: 159px;
+    height: 300px;
+  }
+  
+  .PEOPLE .anran-qi-3 {
+    left: 82px;
+    position: absolute;
+    top: 240px;
+    font-family: "Microsoft YaHei UI-Light", Helvetica;
+    font-weight: 300;
+    color: var(--x-3);
+    font-size: 15px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+    text-decoration: underline;
+  }
+  
+  .PEOPLE .element-27 {
+    top: 2341px;
+    left: 1411px;
+    position: absolute;
+    width: 159px;
+    height: 300px;
+  }
+  
+  .PEOPLE .anran-qi-4 {
+    left: 64px;
+    position: absolute;
+    top: 240px;
+    font-family: "Microsoft YaHei UI-Light", Helvetica;
+    font-weight: 300;
+    color: var(--x-3);
+    font-size: 15px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+    text-decoration: underline;
+  }
+  
+  .PEOPLE .element-28 {
+    top: 2341px;
+    left: 1610px;
+    position: absolute;
+    width: 159px;
+    height: 300px;
+  }
+  
+  .PEOPLE .anran-qi-5 {
+    left: 79px;
+    position: absolute;
+    top: 240px;
+    font-family: "Microsoft YaHei UI-Light", Helvetica;
+    font-weight: 300;
+    color: var(--x-3);
+    font-size: 15px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+    text-decoration: underline;
+  }
+  
+  .PEOPLE .element-29 {
+    position: absolute;
+    width: 159px;
+    height: 300px;
+    top: 2340px;
+    left: 1212px;
+  }
+  
+  .PEOPLE .umar-riaz-muhammad {
+    position: absolute;
+    top: 230px;
+    left: 55px;
+    font-family: "Microsoft YaHei UI-Light", Helvetica;
+    font-weight: 300;
+    color: var(--x-3);
+    font-size: 15px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+    text-decoration: underline;
+  }
+  
+  .PEOPLE .jianshu-zhang {
+    position: absolute;
+    width: 783px;
+    top: 3104px;
+    left: 814px;
+    font-family: "Microsoft YaHei UI-Regular", Helvetica;
+    font-weight: 400;
+    color: transparent;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .PEOPLE .span {
+    color: #04a3ed;
+    text-decoration: underline;
+  }
+  
+  .PEOPLE .text-wrapper-22 {
+    color: #666666;
+  }
+  
+  .PEOPLE .sounak-dey-computer {
+    position: absolute;
+    width: 783px;
+    top: 3149px;
+    left: 814px;
+    font-family: "Microsoft YaHei UI-Regular", Helvetica;
+    font-weight: 400;
+    color: transparent;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .PEOPLE .yaowei-wang-peking {
+    position: absolute;
+    width: 783px;
+    top: 3194px;
+    left: 814px;
+    font-family: "Microsoft YaHei UI-Regular", Helvetica;
+    font-weight: 400;
+    color: transparent;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .PEOPLE .view-2 {
+    position: absolute;
+    width: 1920px;
+    height: 78px;
+    top: 3319px;
+    left: 0;
+    background-color: #000000;
+  }
+  
+  .PEOPLE .text-wrapper-23 {
+    top: 28px;
+    left: 162px;
+    font-family: "Microsoft YaHei UI-Light", Helvetica;
+    font-weight: 300;
+    color: #e6e6e6;
+    font-size: 16px;
+    position: absolute;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .PEOPLE .wordpress-theme {
+    position: absolute;
+    top: 28px;
+    left: 1577px;
+    font-family: "Microsoft YaHei UI-Light", Helvetica;
+    font-weight: 300;
+    color: transparent;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .PEOPLE .text-wrapper-24 {
+    color: #e6e6e6;
+  }
+  
+  .PEOPLE .text-wrapper-25 {
+    color: #7f7f7f;
+  }
+  
+  .PEOPLE .text-wrapper-26 {
+    color: #999999;
+    text-decoration: underline;
+  }
+  
+  .PEOPLE .group-2 {
+    position: absolute;
+    width: 1688px;
+    height: 60px;
+    top: 0;
+    left: 117px;
+  }
+  
+  .PEOPLE .text-wrapper-27 {
+    top: 12px;
+    left: 0;
+    font-family: "Microsoft YaHei UI-Regular", Helvetica;
+    font-weight: 400;
+    color: #333333;
+    font-size: 20px;
+    position: absolute;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .PEOPLE .view-3 {
+    position: absolute;
+    width: 430px;
+    height: 60px;
+    top: 0;
+    left: 1256px;
+  }
+  
+  .PEOPLE .group-3 {
+    position: absolute;
+    width: 21px;
+    height: 22px;
+    top: 14px;
+    left: 25px;
+  }
+  
+  .PEOPLE .rectangle-5 {
+    position: absolute;
+    width: 360px;
+    height: 36px;
+    top: 7px;
+    left: 70px;
+    border-radius: 10px;
+    border: 2px solid;
+    border-color: #999999;
+  }
+  

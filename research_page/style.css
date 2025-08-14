@@ -1,666 +1,665 @@
 .RESEARCH {
-    position: relative;
-    width: 1920px;
-    height: 6054px;
-    background-color: #ffffff;
-    overflow: hidden;
-  }
-  
-  .RESEARCH .view {
-    position: absolute;
-    width: 327px;
-    height: 484px;
-    top: 317px;
-    left: 161px;
-  }
-  
-  .RESEARCH .text-wrapper {
-    position: absolute;
-    top: 384px;
-    left: 2px;
-    font-family: "Microsoft YaHei UI-Bold", Helvetica;
-    font-weight: 700;
-    color: #000000;
-    font-size: 20px;
-    letter-spacing: 0;
-    line-height: normal;
-  }
-  
-  .RESEARCH .div {
-    position: absolute;
-    width: 298px;
-    top: 419px;
-    left: 1px;
-    font-family: "Microsoft YaHei UI-Regular", Helvetica;
-    font-weight: 400;
-    color: #000000;
-    font-size: 20px;
-    letter-spacing: 0;
-    line-height: normal;
-  }
-  
-  .RESEARCH .text-wrapper-2 {
-    position: absolute;
-    width: 298px;
-    top: 489px;
-    left: 29px;
-    font-family: "Microsoft YaHei UI-Regular", Helvetica;
-    font-weight: 400;
-    color: #000000;
-    font-size: 20px;
-    letter-spacing: 0;
-    line-height: normal;
-  }
-  
-  .RESEARCH .text-wrapper-3 {
-    position: absolute;
-    width: 298px;
-    top: 524px;
-    left: 29px;
-    font-family: "Microsoft YaHei UI-Regular", Helvetica;
-    font-weight: 400;
-    color: #000000;
-    font-size: 20px;
-    letter-spacing: 0;
-    line-height: normal;
-  }
-  
-  .RESEARCH .group {
-    position: absolute;
-    width: 299px;
-    height: 299px;
-    top: 0;
-    left: 0;
-    box-shadow: 0px 4px 30px #e96a0533;
-  }
-  
-  .RESEARCH .overlap-group {
-    position: relative;
-    width: 343px;
-    height: 343px;
-    top: -18px;
-    left: -22px;
-    background-image: url(https://c.animaapp.com/me9s6lkch8DFDp/img/ellipse-9-1.png);
-    background-size: cover;
-    background-position: 50% 50%;
-  }
-  
-  .RESEARCH .ellipse {
-    position: relative;
-    width: 299px;
-    height: 299px;
-    top: 18px;
-    left: 22px;
-    border-radius: 149.5px;
-    border: 1px solid;
-    border-color: #f1f2f3;
-  }
-  
-  .RESEARCH .social {
-    position: absolute;
-    width: 20px;
-    height: 20px;
-    top: 526px;
-    left: 1px;
-    border-radius: 2px;
-    object-fit: cover;
-  }
-  
-  .RESEARCH .image {
-    position: absolute;
-    width: 20px;
-    height: 20px;
-    top: 491px;
-    left: 1px;
-    object-fit: cover;
-  }
-  
-  .RESEARCH .text-wrapper-4 {
-    position: absolute;
-    top: 289px;
-    left: 808px;
-    font-family: "Microsoft YaHei UI-Bold", Helvetica;
-    font-weight: 700;
-    color: #333333;
-    font-size: 20px;
-    letter-spacing: 0;
-    line-height: normal;
-  }
-  
-  .RESEARCH .text-wrapper-5 {
-    top: 339px;
-    position: absolute;
-    left: 808px;
-    font-family: "Microsoft YaHei UI-Bold", Helvetica;
-    font-weight: 700;
-    color: #333333;
-    font-size: 18px;
-    letter-spacing: 0;
-    line-height: normal;
-  }
-  
-  .RESEARCH .text-wrapper-6 {
-    top: 515px;
-    position: absolute;
-    left: 808px;
-    font-family: "Microsoft YaHei UI-Bold", Helvetica;
-    font-weight: 700;
-    color: #333333;
-    font-size: 18px;
-    letter-spacing: 0;
-    line-height: normal;
-  }
-  
-  .RESEARCH .text-wrapper-7 {
-    top: 1561px;
-    position: absolute;
-    left: 808px;
-    font-family: "Microsoft YaHei UI-Bold", Helvetica;
-    font-weight: 700;
-    color: #333333;
-    font-size: 18px;
-    letter-spacing: 0;
-    line-height: normal;
-  }
-  
-  .RESEARCH .text-wrapper-8 {
-    top: 2427px;
-    position: absolute;
-    left: 808px;
-    font-family: "Microsoft YaHei UI-Bold", Helvetica;
-    font-weight: 700;
-    color: #333333;
-    font-size: 18px;
-    letter-spacing: 0;
-    line-height: normal;
-  }
-  
-  .RESEARCH .text-wrapper-9 {
-    top: 3173px;
-    position: absolute;
-    left: 808px;
-    font-family: "Microsoft YaHei UI-Bold", Helvetica;
-    font-weight: 700;
-    color: #333333;
-    font-size: 18px;
-    letter-spacing: 0;
-    line-height: normal;
-  }
-  
-  .RESEARCH .text-wrapper-10 {
-    top: 3589px;
-    position: absolute;
-    left: 808px;
-    font-family: "Microsoft YaHei UI-Bold", Helvetica;
-    font-weight: 700;
-    color: #333333;
-    font-size: 18px;
-    letter-spacing: 0;
-    line-height: normal;
-  }
-  
-  .RESEARCH .text-wrapper-11 {
-    top: 4185px;
-    position: absolute;
-    left: 808px;
-    font-family: "Microsoft YaHei UI-Bold", Helvetica;
-    font-weight: 700;
-    color: #333333;
-    font-size: 18px;
-    letter-spacing: 0;
-    line-height: normal;
-  }
-  
-  .RESEARCH .text-wrapper-12 {
-    top: 4601px;
-    position: absolute;
-    left: 808px;
-    font-family: "Microsoft YaHei UI-Bold", Helvetica;
-    font-weight: 700;
-    color: #333333;
-    font-size: 18px;
-    letter-spacing: 0;
-    line-height: normal;
-  }
-  
-  .RESEARCH .text-wrapper-13 {
-    top: 5137px;
-    position: absolute;
-    left: 808px;
-    font-family: "Microsoft YaHei UI-Bold", Helvetica;
-    font-weight: 700;
-    color: #333333;
-    font-size: 18px;
-    letter-spacing: 0;
-    line-height: normal;
-  }
-  
-  .RESEARCH .text-wrapper-14 {
-    top: 5433px;
-    position: absolute;
-    left: 808px;
-    font-family: "Microsoft YaHei UI-Bold", Helvetica;
-    font-weight: 700;
-    color: #333333;
-    font-size: 18px;
-    letter-spacing: 0;
-    line-height: normal;
-  }
-  
-  .RESEARCH .text-wrapper-15 {
-    top: 5669px;
-    position: absolute;
-    left: 808px;
-    font-family: "Microsoft YaHei UI-Bold", Helvetica;
-    font-weight: 700;
-    color: #333333;
-    font-size: 18px;
-    letter-spacing: 0;
-    line-height: normal;
-  }
-  
-  .RESEARCH .view-2 {
-    position: absolute;
-    width: 1920px;
-    height: 73px;
-    top: 5981px;
-    left: 0;
-    background-color: #000000;
-  }
-  
-  .RESEARCH .text-wrapper-16 {
-    top: 26px;
-    left: 162px;
-    font-family: "Microsoft YaHei UI-Light", Helvetica;
-    font-weight: 300;
-    color: #e6e6e6;
-    font-size: 16px;
-    position: absolute;
-    letter-spacing: 0;
-    line-height: normal;
-  }
-  
-  .RESEARCH .wordpress-theme {
-    position: absolute;
-    top: 26px;
-    left: 1577px;
-    font-family: "Microsoft YaHei UI-Light", Helvetica;
-    font-weight: 300;
-    color: transparent;
-    font-size: 16px;
-    letter-spacing: 0;
-    line-height: normal;
-  }
-  
-  .RESEARCH .span {
-    color: #e6e6e6;
-  }
-  
-  .RESEARCH .text-wrapper-17 {
-    color: #7f7f7f;
-  }
-  
-  .RESEARCH .text-wrapper-18 {
-    color: #999999;
-    text-decoration: underline;
-  }
-  
-  .RESEARCH .ayan-das-yongxin {
-    position: absolute;
-    width: 1021px;
-    top: 370px;
-    left: 814px;
-    font-family: "Microsoft YaHei UI-Light", Helvetica;
-    font-weight: 400;
-    color: transparent;
-    font-size: 16px;
-    letter-spacing: 0;
-    line-height: 16px;
-  }
-  
-  .RESEARCH .text-wrapper-19 {
-    font-weight: 300;
-    color: #000000;
-    line-height: 30px;
-  }
-  
-  .RESEARCH .text-wrapper-20 {
-    font-weight: 300;
-    color: #04a3ed;
-    line-height: 30px;
-  }
-  
-  .RESEARCH .text-wrapper-21 {
-    font-weight: 300;
-    color: #04a3ed;
-    line-height: 30px;
-    text-decoration: underline;
-  }
-  
-  .RESEARCH .text-wrapper-22 {
-    font-family: "Microsoft YaHei UI-Regular", Helvetica;
-    color: #000000;
-    line-height: 30px;
-  }
-  
-  .RESEARCH .peng-xu-timothy-m {
-    position: absolute;
-    width: 1021px;
-    top: 546px;
-    left: 814px;
-    font-family: "undefined-Regular", Helvetica;
-    font-weight: 300;
-    color: black;
-    font-size: 16px;
-    letter-spacing: 0;
-    line-height: 16px;
-  }
-  
-  .RESEARCH .anran-qi-yulia {
-    position: absolute;
-    width: 1021px;
-    top: 1592px;
-    left: 814px;
-    font-family: "undefined-Regular", Helvetica;
-    font-weight: 300;
-    color: black;
-    font-size: 16px;
-    letter-spacing: 0;
-    line-height: 16px;
-  }
-  
-  .RESEARCH .ling-luo-yulia {
-    position: absolute;
-    width: 1021px;
-    top: 2458px;
-    left: 814px;
-    font-family: "undefined-Regular", Helvetica;
-    font-weight: 300;
-    color: black;
-    font-size: 16px;
-    letter-spacing: 0;
-    line-height: 16px;
-  }
-  
-  .RESEARCH .da-li-jianshu-zhang {
-    position: absolute;
-    width: 1021px;
-    top: 3204px;
-    left: 814px;
-    font-family: "Microsoft YaHei UI-Light", Helvetica;
-    font-weight: 400;
-    color: transparent;
-    font-size: 16px;
-    letter-spacing: 0;
-    line-height: 30px;
-  }
-  
-  .RESEARCH .text-wrapper-23 {
-    font-weight: 300;
-    color: #000000;
-  }
-  
-  .RESEARCH .text-wrapper-24 {
-    font-family: "Microsoft YaHei UI-Regular", Helvetica;
-    color: #000000;
-  }
-  
-  .RESEARCH .text-wrapper-25 {
-    font-family: "Microsoft YaHei UI-Regular", Helvetica;
-    color: #e96a05;
-  }
-  
-  .RESEARCH .kaiyue-pang-da-li {
-    position: absolute;
-    width: 1021px;
-    top: 3620px;
-    left: 814px;
-    font-family: "Microsoft YaHei UI-Light", Helvetica;
-    font-weight: 400;
-    color: transparent;
-    font-size: 16px;
-    letter-spacing: 0;
-    line-height: 30px;
-  }
-  
-  .RESEARCH .da-li-yongxin-yang {
-    position: absolute;
-    width: 1021px;
-    top: 4216px;
-    left: 814px;
-    font-family: "Microsoft YaHei UI-Light", Helvetica;
-    font-weight: 400;
-    color: transparent;
-    font-size: 16px;
-    letter-spacing: 0;
-    line-height: 30px;
-  }
-  
-  .RESEARCH .s-ouyang-t {
-    top: 4632px;
-    color: transparent;
-    position: absolute;
-    width: 1021px;
-    left: 814px;
-    font-family: "Microsoft YaHei UI-Light", Helvetica;
-    font-weight: 400;
-    font-size: 16px;
-    letter-spacing: 0;
-    line-height: 30px;
-  }
-  
-  .RESEARCH .q-yu-y-yang-y-z-song {
-    position: absolute;
-    width: 1021px;
-    top: 5168px;
-    left: 814px;
-    font-family: "Microsoft YaHei UI-Light", Helvetica;
-    font-weight: 400;
-    color: transparent;
-    font-size: 16px;
-    letter-spacing: 0;
-    line-height: 30px;
-  }
-  
-  .RESEARCH .p {
-    top: 5464px;
-    color: #000000;
-    position: absolute;
-    width: 1021px;
-    left: 814px;
-    font-family: "Microsoft YaHei UI-Light", Helvetica;
-    font-weight: 400;
-    font-size: 16px;
-    letter-spacing: 0;
-    line-height: 30px;
-  }
-  
-  .RESEARCH .text-wrapper-26 {
-    font-weight: 300;
-  }
-  
-  .RESEARCH .text-wrapper-27 {
-    font-family: "Microsoft YaHei UI-Regular", Helvetica;
-  }
-  
-  .RESEARCH .yonggang-qi-jun-guo {
-    position: absolute;
-    width: 1021px;
-    top: 5700px;
-    left: 814px;
-    font-family: "Microsoft YaHei UI-Light", Helvetica;
-    font-weight: 400;
-    color: #000000;
-    font-size: 16px;
-    letter-spacing: 0;
-    line-height: 30px;
-  }
-  
-  .RESEARCH .group-2 {
-    position: absolute;
-    width: 1932px;
-    height: 202px;
-    top: 18px;
-    left: 0;
-  }
-  
-  .RESEARCH .rectangle {
-    position: absolute;
-    width: 485px;
-    height: 74px;
-    top: 98px;
-    left: 1374px;
-    object-fit: cover;
-  }
-  
-  .RESEARCH .line {
-    top: 66px;
-    left: 0;
-    position: absolute;
-    width: 1919px;
-    height: 1px;
-    object-fit: cover;
-  }
-  
-  .RESEARCH .img {
-    top: 201px;
-    left: 1px;
-    position: absolute;
-    width: 1919px;
-    height: 1px;
-    object-fit: cover;
-  }
-  
-  .RESEARCH .group-3 {
-    position: absolute;
-    width: 1688px;
-    height: 60px;
-    top: 0;
-    left: 104px;
-  }
-  
-  .RESEARCH .text-wrapper-28 {
-    top: 12px;
-    left: 0;
-    font-family: "Microsoft YaHei UI-Regular", Helvetica;
-    font-weight: 400;
-    color: #333333;
-    font-size: 20px;
-    position: absolute;
-    letter-spacing: 0;
-    line-height: normal;
-  }
-  
-  .RESEARCH .view-3 {
-    position: absolute;
-    width: 430px;
-    height: 60px;
-    top: 0;
-    left: 1256px;
-  }
-  
-  .RESEARCH .group-4 {
-    position: absolute;
-    width: 21px;
-    height: 22px;
-    top: 14px;
-    left: 25px;
-  }
-  
-  .RESEARCH .rectangle-2 {
-    position: absolute;
-    width: 360px;
-    height: 36px;
-    top: 7px;
-    left: 70px;
-    border-radius: 10px;
-    border: 2px solid;
-    border-color: #999999;
-  }
-  
-  .RESEARCH .text-wrapper-29 {
-    left: 108px;
-    position: absolute;
-    top: 128px;
-    font-family: "Microsoft YaHei UI-Regular", Helvetica;
-    font-weight: 400;
-    color: #333333;
-    font-size: 20px;
-    letter-spacing: 0;
-    line-height: normal;
-  }
-  
-  .RESEARCH .text-wrapper-30 {
-    position: absolute;
-    top: 128px;
-    left: 241px;
-    font-family: "Microsoft YaHei UI-Regular", Helvetica;
-    font-weight: 400;
-    color: #333333;
-    font-size: 20px;
-    letter-spacing: 0;
-    line-height: normal;
-  }
-  
-  .RESEARCH .text-wrapper-31 {
-    left: 385px;
-    text-align: center;
-    position: absolute;
-    top: 128px;
-    font-family: "Microsoft YaHei UI-Regular", Helvetica;
-    font-weight: 400;
-    color: #333333;
-    font-size: 20px;
-    letter-spacing: 0;
-    line-height: normal;
-  }
-  
-  .RESEARCH .text-wrapper-32 {
-    position: absolute;
-    top: 128px;
-    left: 764px;
-    font-family: "Microsoft YaHei UI-Regular", Helvetica;
-    font-weight: 400;
-    color: #333333;
-    font-size: 20px;
-    text-align: center;
-    letter-spacing: 0;
-    line-height: normal;
-  }
-  
-  .RESEARCH .text-wrapper-33 {
-    position: absolute;
-    top: 128px;
-    left: 558px;
-    font-family: "Microsoft YaHei UI-Regular", Helvetica;
-    font-weight: 400;
-    color: #333333;
-    font-size: 20px;
-    text-align: center;
-    letter-spacing: 0;
-    line-height: normal;
-  }
-  
-  .RESEARCH .rectangle-3 {
-    position: absolute;
-    width: 159px;
-    height: 6px;
-    top: 101px;
-    left: 357px;
-    background-color: var(--x-1);
-    border-radius: 3px;
-  }
-  
-  .RESEARCH .text-wrapper-34 {
-    position: absolute;
-    top: 128px;
-    left: 908px;
-    font-family: "Microsoft YaHei UI-Regular", Helvetica;
-    font-weight: 400;
-    color: #333333;
-    font-size: 20px;
-    text-align: center;
-    letter-spacing: 0;
-    line-height: normal;
-  }
-  
+  position: relative;
+  width: 1920px;
+  height: 6054px;
+  background-color: #ffffff;
+  overflow: hidden;
+}
+
+.RESEARCH .view {
+  position: absolute;
+  width: 327px;
+  height: 484px;
+  top: 317px;
+  left: 161px;
+}
+
+.RESEARCH .text-wrapper {
+  position: absolute;
+  top: 384px;
+  left: 2px;
+  font-family: "Microsoft YaHei UI-Bold", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.RESEARCH .div {
+  position: absolute;
+  width: 298px;
+  top: 419px;
+  left: 1px;
+  font-family: "Microsoft YaHei UI-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.RESEARCH .text-wrapper-2 {
+  position: absolute;
+  width: 298px;
+  top: 489px;
+  left: 29px;
+  font-family: "Microsoft YaHei UI-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.RESEARCH .text-wrapper-3 {
+  position: absolute;
+  width: 298px;
+  top: 524px;
+  left: 29px;
+  font-family: "Microsoft YaHei UI-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.RESEARCH .group {
+  position: absolute;
+  width: 299px;
+  height: 299px;
+  top: 0;
+  left: 0;
+  box-shadow: 0px 4px 30px #e96a0533;
+}
+
+.RESEARCH .overlap-group {
+  position: relative;
+  width: 343px;
+  height: 343px;
+  top: -18px;
+  left: -22px;
+  background-image: url(https://c.animaapp.com/meb917r5WNbS46/img/ellipse-9-1.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.RESEARCH .ellipse {
+  position: relative;
+  width: 299px;
+  height: 299px;
+  top: 18px;
+  left: 22px;
+  border-radius: 149.5px;
+  border: 1px solid;
+  border-color: #f1f2f3;
+}
+
+.RESEARCH .social {
+  position: absolute;
+  width: 20px;
+  height: 20px;
+  top: 526px;
+  left: 1px;
+  border-radius: 2px;
+  object-fit: cover;
+}
+
+.RESEARCH .image {
+  position: absolute;
+  width: 20px;
+  height: 20px;
+  top: 491px;
+  left: 1px;
+  object-fit: cover;
+}
+
+.RESEARCH .text-wrapper-4 {
+  position: absolute;
+  top: 289px;
+  left: 808px;
+  font-family: "Microsoft YaHei UI-Bold", Helvetica;
+  font-weight: 700;
+  color: #333333;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.RESEARCH .text-wrapper-5 {
+  top: 339px;
+  position: absolute;
+  left: 808px;
+  font-family: "Microsoft YaHei UI-Bold", Helvetica;
+  font-weight: 700;
+  color: #333333;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.RESEARCH .text-wrapper-6 {
+  top: 515px;
+  position: absolute;
+  left: 808px;
+  font-family: "Microsoft YaHei UI-Bold", Helvetica;
+  font-weight: 700;
+  color: #333333;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.RESEARCH .text-wrapper-7 {
+  top: 1561px;
+  position: absolute;
+  left: 808px;
+  font-family: "Microsoft YaHei UI-Bold", Helvetica;
+  font-weight: 700;
+  color: #333333;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.RESEARCH .text-wrapper-8 {
+  top: 2427px;
+  position: absolute;
+  left: 808px;
+  font-family: "Microsoft YaHei UI-Bold", Helvetica;
+  font-weight: 700;
+  color: #333333;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.RESEARCH .text-wrapper-9 {
+  top: 3173px;
+  position: absolute;
+  left: 808px;
+  font-family: "Microsoft YaHei UI-Bold", Helvetica;
+  font-weight: 700;
+  color: #333333;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.RESEARCH .text-wrapper-10 {
+  top: 3589px;
+  position: absolute;
+  left: 808px;
+  font-family: "Microsoft YaHei UI-Bold", Helvetica;
+  font-weight: 700;
+  color: #333333;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.RESEARCH .text-wrapper-11 {
+  top: 4185px;
+  position: absolute;
+  left: 808px;
+  font-family: "Microsoft YaHei UI-Bold", Helvetica;
+  font-weight: 700;
+  color: #333333;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.RESEARCH .text-wrapper-12 {
+  top: 4601px;
+  position: absolute;
+  left: 808px;
+  font-family: "Microsoft YaHei UI-Bold", Helvetica;
+  font-weight: 700;
+  color: #333333;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.RESEARCH .text-wrapper-13 {
+  top: 5137px;
+  position: absolute;
+  left: 808px;
+  font-family: "Microsoft YaHei UI-Bold", Helvetica;
+  font-weight: 700;
+  color: #333333;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.RESEARCH .text-wrapper-14 {
+  top: 5433px;
+  position: absolute;
+  left: 808px;
+  font-family: "Microsoft YaHei UI-Bold", Helvetica;
+  font-weight: 700;
+  color: #333333;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.RESEARCH .text-wrapper-15 {
+  top: 5669px;
+  position: absolute;
+  left: 808px;
+  font-family: "Microsoft YaHei UI-Bold", Helvetica;
+  font-weight: 700;
+  color: #333333;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.RESEARCH .view-2 {
+  position: absolute;
+  width: 1920px;
+  height: 73px;
+  top: 5981px;
+  left: 0;
+  background-color: #000000;
+}
+
+.RESEARCH .text-wrapper-16 {
+  top: 26px;
+  left: 162px;
+  font-family: "Microsoft YaHei UI-Light", Helvetica;
+  font-weight: 300;
+  color: #e6e6e6;
+  font-size: 16px;
+  position: absolute;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.RESEARCH .wordpress-theme {
+  position: absolute;
+  top: 26px;
+  left: 1577px;
+  font-family: "Microsoft YaHei UI-Light", Helvetica;
+  font-weight: 300;
+  color: transparent;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.RESEARCH .span {
+  color: #e6e6e6;
+}
+
+.RESEARCH .text-wrapper-17 {
+  color: #7f7f7f;
+}
+
+.RESEARCH .text-wrapper-18 {
+  color: #999999;
+  text-decoration: underline;
+}
+
+.RESEARCH .ayan-das-yongxin {
+  position: absolute;
+  width: 1021px;
+  top: 370px;
+  left: 814px;
+  font-family: "Microsoft YaHei UI-Light", Helvetica;
+  font-weight: 400;
+  color: transparent;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: 16px;
+}
+
+.RESEARCH .text-wrapper-19 {
+  font-weight: 300;
+  color: #000000;
+  line-height: 30px;
+}
+
+.RESEARCH .text-wrapper-20 {
+  font-weight: 300;
+  color: #04a3ed;
+  line-height: 30px;
+}
+
+.RESEARCH .text-wrapper-21 {
+  font-weight: 300;
+  color: #04a3ed;
+  line-height: 30px;
+  text-decoration: underline;
+}
+
+.RESEARCH .text-wrapper-22 {
+  font-family: "Microsoft YaHei UI-Regular", Helvetica;
+  color: #000000;
+  line-height: 30px;
+}
+
+.RESEARCH .peng-xu-timothy-m {
+  position: absolute;
+  width: 1021px;
+  top: 546px;
+  left: 814px;
+  font-family: "Microsoft YaHei UI-Light", Helvetica;
+  font-weight: 300;
+  color: #000000;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: 30px;
+}
+
+.RESEARCH .anran-qi-yulia {
+  position: absolute;
+  width: 1021px;
+  top: 1592px;
+  left: 814px;
+  font-family: "Microsoft YaHei UI-Light", Helvetica;
+  font-weight: 300;
+  color: #000000;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: 30px;
+}
+
+.RESEARCH .ling-luo-yulia {
+  position: absolute;
+  width: 1021px;
+  top: 2458px;
+  left: 814px;
+  font-family: "Microsoft YaHei UI-Light", Helvetica;
+  font-weight: 300;
+  color: #000000;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: 30px;
+}
+
+.RESEARCH .da-li-jianshu-zhang {
+  position: absolute;
+  width: 1021px;
+  top: 3204px;
+  left: 814px;
+  font-family: "Microsoft YaHei UI-Light", Helvetica;
+  font-weight: 400;
+  color: transparent;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: 30px;
+}
+
+.RESEARCH .text-wrapper-23 {
+  font-weight: 300;
+  color: #000000;
+}
+
+.RESEARCH .text-wrapper-24 {
+  font-family: "Microsoft YaHei UI-Regular", Helvetica;
+  color: #000000;
+}
+
+.RESEARCH .text-wrapper-25 {
+  font-family: "Microsoft YaHei UI-Regular", Helvetica;
+  color: #e96a05;
+}
+
+.RESEARCH .kaiyue-pang-da-li {
+  position: absolute;
+  width: 1021px;
+  top: 3620px;
+  left: 814px;
+  font-family: "Microsoft YaHei UI-Light", Helvetica;
+  font-weight: 400;
+  color: transparent;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: 30px;
+}
+
+.RESEARCH .da-li-yongxin-yang {
+  position: absolute;
+  width: 1021px;
+  top: 4216px;
+  left: 814px;
+  font-family: "Microsoft YaHei UI-Light", Helvetica;
+  font-weight: 400;
+  color: transparent;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: 30px;
+}
+
+.RESEARCH .s-ouyang-t {
+  top: 4632px;
+  color: #000000;
+  position: absolute;
+  width: 1021px;
+  left: 814px;
+  font-family: "Microsoft YaHei UI-Light", Helvetica;
+  font-weight: 300;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: 30px;
+}
+
+.RESEARCH .q-yu-y-yang-y-z-song {
+  position: absolute;
+  width: 1021px;
+  top: 5168px;
+  left: 814px;
+  font-family: "Microsoft YaHei UI-Light", Helvetica;
+  font-weight: 300;
+  color: #000000;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: 30px;
+}
+
+.RESEARCH .p {
+  top: 5464px;
+  color: #000000;
+  position: absolute;
+  width: 1021px;
+  left: 814px;
+  font-family: "Microsoft YaHei UI-Light", Helvetica;
+  font-weight: 400;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: 30px;
+}
+
+.RESEARCH .text-wrapper-26 {
+  font-weight: 300;
+}
+
+.RESEARCH .text-wrapper-27 {
+  font-family: "Microsoft YaHei UI-Regular", Helvetica;
+}
+
+.RESEARCH .yonggang-qi-jun-guo {
+  position: absolute;
+  width: 1021px;
+  top: 5700px;
+  left: 814px;
+  font-family: "Microsoft YaHei UI-Light", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: 30px;
+}
+
+.RESEARCH .group-2 {
+  position: absolute;
+  width: 1932px;
+  height: 202px;
+  top: 18px;
+  left: 0;
+}
+
+.RESEARCH .rectangle {
+  position: absolute;
+  width: 485px;
+  height: 74px;
+  top: 98px;
+  left: 1374px;
+  object-fit: cover;
+}
+
+.RESEARCH .line {
+  top: 66px;
+  left: 0;
+  position: absolute;
+  width: 1919px;
+  height: 1px;
+  object-fit: cover;
+}
+
+.RESEARCH .img {
+  top: 201px;
+  left: 1px;
+  position: absolute;
+  width: 1919px;
+  height: 1px;
+  object-fit: cover;
+}
+
+.RESEARCH .group-3 {
+  position: absolute;
+  width: 1688px;
+  height: 60px;
+  top: 0;
+  left: 104px;
+}
+
+.RESEARCH .text-wrapper-28 {
+  top: 12px;
+  left: 0;
+  font-family: "Microsoft YaHei UI-Regular", Helvetica;
+  font-weight: 400;
+  color: #333333;
+  font-size: 20px;
+  position: absolute;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.RESEARCH .view-3 {
+  position: absolute;
+  width: 430px;
+  height: 60px;
+  top: 0;
+  left: 1256px;
+}
+
+.RESEARCH .group-4 {
+  position: absolute;
+  width: 21px;
+  height: 22px;
+  top: 14px;
+  left: 25px;
+}
+
+.RESEARCH .rectangle-2 {
+  position: absolute;
+  width: 360px;
+  height: 36px;
+  top: 7px;
+  left: 70px;
+  border-radius: 10px;
+  border: 2px solid;
+  border-color: #999999;
+}
+
+.RESEARCH .text-wrapper-29 {
+  left: 108px;
+  position: absolute;
+  top: 128px;
+  font-family: "Microsoft YaHei UI-Regular", Helvetica;
+  font-weight: 400;
+  color: #333333;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.RESEARCH .text-wrapper-30 {
+  position: absolute;
+  top: 128px;
+  left: 241px;
+  font-family: "Microsoft YaHei UI-Regular", Helvetica;
+  font-weight: 400;
+  color: #333333;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.RESEARCH .text-wrapper-31 {
+  left: 385px;
+  text-align: center;
+  position: absolute;
+  top: 128px;
+  font-family: "Microsoft YaHei UI-Regular", Helvetica;
+  font-weight: 400;
+  color: #333333;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.RESEARCH .text-wrapper-32 {
+  position: absolute;
+  top: 128px;
+  left: 764px;
+  font-family: "Microsoft YaHei UI-Regular", Helvetica;
+  font-weight: 400;
+  color: #333333;
+  font-size: 20px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.RESEARCH .text-wrapper-33 {
+  position: absolute;
+  top: 128px;
+  left: 558px;
+  font-family: "Microsoft YaHei UI-Regular", Helvetica;
+  font-weight: 400;
+  color: #333333;
+  font-size: 20px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.RESEARCH .rectangle-3 {
+  position: absolute;
+  width: 159px;
+  height: 6px;
+  top: 101px;
+  left: 357px;
+  background-color: var(--x-1);
+  border-radius: 3px;
+}
+
+.RESEARCH .text-wrapper-34 {
+  position: absolute;
+  top: 128px;
+  left: 908px;
+  font-family: "Microsoft YaHei UI-Regular", Helvetica;
+  font-weight: 400;
+  color: #333333;
+  font-size: 20px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}

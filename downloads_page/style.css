@@ -344,6 +344,7 @@
     border: 1px solid;
     border-color: #b3b3b3;
     box-shadow: 0px 4px 10px #0000001a;
+    pointer-events: none;
   }
   
   .DOWNLOADS .image-2 {
@@ -353,6 +354,7 @@
     top: 9px;
     left: 8px;
     object-fit: cover;
+    pointer-events: none;
   }
   
   .DOWNLOADS .overlap-group-wrapper {
@@ -391,6 +393,7 @@
     top: 9px;
     left: 12px;
     object-fit: cover;
+    pointer-events: none;
   }
   
   .DOWNLOADS .rectangle-2 {
@@ -402,6 +405,7 @@
     border: 1px solid;
     border-color: #b3b3b3;
     box-shadow: 0px 4px 10px #0000001a;
+    pointer-events: none;
   }
   
   .DOWNLOADS .div-wrapper {
@@ -441,6 +445,7 @@
     top: 13px;
     left: 12px;
     object-fit: cover;
+    pointer-events: none;
   }
   
   .DOWNLOADS .rectangle-3 {
@@ -452,6 +457,7 @@
     border: 1px solid;
     border-color: #b3b3b3;
     box-shadow: 0px 4px 10px #0000001a;
+    pointer-events: none;
   }
   
   .DOWNLOADS .group-2 {
@@ -492,6 +498,7 @@
     border: 1px solid;
     border-color: #b3b3b3;
     box-shadow: 0px 4px 10px #0000001a;
+    pointer-events: none;
   }
   
   .DOWNLOADS .image-5 {
@@ -501,6 +508,7 @@
     top: 16px;
     left: 9px;
     object-fit: cover;
+    pointer-events: none;
   }
   
   .DOWNLOADS .group-3 {
@@ -541,6 +549,7 @@
     border: 1px solid;
     border-color: #b3b3b3;
     box-shadow: 0px 4px 10px #0000001a;
+    pointer-events: none;
   }
   
   .DOWNLOADS .image-6 {
@@ -550,6 +559,7 @@
     top: 5px;
     left: 9px;
     object-fit: cover;
+    pointer-events: none;
   }
   
   .DOWNLOADS .group-4 {
@@ -590,6 +600,7 @@
     border: 1px solid;
     border-color: #b3b3b3;
     box-shadow: 0px 4px 10px #0000001a;
+    pointer-events: none;
   }
   
   .DOWNLOADS .image-7 {
@@ -599,6 +610,7 @@
     top: 2px;
     left: 3px;
     object-fit: cover;
+    pointer-events: none;
   }
   
   .DOWNLOADS .overlap-7 {

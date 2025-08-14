@@ -11,7 +11,7 @@
     <div class="PROGRAMS">
       <div class="overlap">
         <div class="group">
-          <img class="rectangle" src="https://c.animaapp.com/meb8v34rtBqMMG/img/rectangle-195.png" />
+          <img class="rectangle" src='/imgs/page_img/logo.png' />
           <img class="line" src="https://c.animaapp.com/meb8v34rtBqMMG/img/line-3.svg" />
           <img class="img" src="https://c.animaapp.com/meb8v34rtBqMMG/img/line-3.svg" />
         </div>
@@ -127,6 +127,15 @@
           });
         }
       });
+
+      // 获取图片元素
+      const img = document.querySelector('.rectangle');
+
+      // 添加点击事件，跳转到 home_page/index.html
+      img.addEventListener('click', () => {
+        window.location.href = '../home_page/index.html';
+      });
+
     </script>
   </body>
 </html>

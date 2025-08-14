@@ -190,14 +190,14 @@
       // 左箭头点击事件
       document.querySelector('.group').addEventListener('click', () => {
         currentIndex = currentIndex > 1 ? currentIndex - 1 : maxIndex;
-        rectangleImg.src = '../imgs/' + currentIndex + '.jpg';
+        rectangleImg.src = './imgs/' + currentIndex + '.jpg';
         updateBlocks();
       });
     
       // 右箭头点击事件
       document.querySelector('.overlap-group').addEventListener('click', () => {
         currentIndex = currentIndex < maxIndex ? currentIndex + 1 : 1;
-        rectangleImg.src = '../imgs/' + currentIndex + '.jpg';
+        rectangleImg.src = './imgs/' + currentIndex + '.jpg';
         updateBlocks();
       });
 

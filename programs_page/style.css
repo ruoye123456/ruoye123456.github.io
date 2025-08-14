@@ -79,7 +79,19 @@
     letter-spacing: 0;
     line-height: normal;
   }
-  
+
+  .PROGRAMS .text-wrapper-1 {
+    left: 161px;
+    color: #333333;
+    position: absolute;
+    top: 24px;
+    font-family: "Microsoft YaHei UI-Regular", Helvetica;
+    font-weight: 400;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+
   .PROGRAMS .text-wrapper-2 {
     position: absolute;
     top: 24px;

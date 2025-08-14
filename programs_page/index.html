@@ -17,7 +17,7 @@
         </div>
         <div class="navbar">
           <div class="text-wrapper">HOME</div>
-          <div class="div">PEOPLE</div>
+          <div class="text-wrapper-1">PEOPLE</div>
           <div class="text-wrapper-2">RESEARCH</div>
           <div class="text-wrapper-3">DOWNLOADS</div>
           <div class="text-wrapper-4">DEMOS</div>
@@ -106,5 +106,27 @@
         </div>
       </div>
     </div>
+    <script>
+        // 导航项和对应路径
+      const navLinks = {
+        'text-wrapper': '../home_page/index.html',       // HOME
+        'text-wrapper-1': '../people_page/index.html',     // PEOPLE
+        'text-wrapper-2': '../research_page/index.html',   // RESEARCH
+        'text-wrapper-3': '../downloads_page/index.html',  // DOWNLOADS
+        'text-wrapper-4': '../demos_page/index.html',      // DEMOS
+        'text-wrapper-5': '../programs_page/index.html'
+      };
+
+      // 绑定点击事件
+      Object.entries(navLinks).forEach(([className, path]) => {
+        const el = document.querySelector(`.${className}`);
+        if (el) {
+          el.style.cursor = 'pointer'; // 鼠标悬停变小手
+          el.addEventListener('click', () => {
+            window.location.href = path;
+          });
+        }
+      });
+    </script>
   </body>
 </html>

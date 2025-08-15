@@ -234,6 +234,7 @@
     border: 1px solid;
     border-color: #b3b3b3;
     box-shadow: 0px 4px 10px #0000001a;
+    pointer-events: none;
   }
   
   .DEMOS .overlap-group-wrapper {
@@ -282,6 +283,7 @@
     border: 1px solid;
     border-color: #b3b3b3;
     box-shadow: 0px 4px 10px #0000001a;
+    pointer-events: none;
   }
   
   .DEMOS .group-2 {

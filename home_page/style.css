@@ -65,7 +65,7 @@
     height: 74px;
     top: 0;
     left: 0;
-    background-color: #d9d9d9;
+    background-color: transparent;
   }
   
   .HOME .group {
@@ -600,5 +600,14 @@
     height: 52px;
     top: 290px;
     left: 1374px;
+  }
+  .HOME .group, 
+  .HOME .overlap-group {
+    opacity: 0;
+    transition: opacity 0.3s ease;
+  }
+  .HOME .group.visible, 
+  .HOME .overlap-group.visible {
+      opacity: 1;
   }
   

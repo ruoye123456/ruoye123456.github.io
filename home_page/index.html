@@ -234,7 +234,42 @@
       img.addEventListener('click', () => {
         window.location.href = '../home_page/index.html';
       });
+      
+      // 靠近时触发箭头
+      document.addEventListener('mousemove', function(e) {
+        const targets = document.querySelectorAll('.rectangle, .group, .overlap-group'); 
+        const group = document.querySelector('.group');
+        const overlap = document.querySelector('.overlap-group');
 
+        let isNear = false;
+        const range = 50; // 鼠标到元素的最大距离
+
+        targets.forEach(el => {
+            const rect = el.getBoundingClientRect();
+            const mouseX = e.clientX;
+            const mouseY = e.clientY;
+
+            const dx = Math.max(rect.left - mouseX, 0, mouseX - rect.right);
+            const dy = Math.max(rect.top - mouseY, 0, mouseY - rect.bottom);
+            const distance = Math.sqrt(dx * dx + dy * dy);
+
+            if (distance <= range) {
+                isNear = true;
+            }
+        });
+
+        if (isNear) {
+            group.classList.add('visible');
+            overlap.classList.add('visible');
+        } else {
+            group.classList.remove('visible');
+            overlap.classList.remove('visible');
+        }
+    });
+
+      // // 页面加载时，设置初始状态
+      // document.querySelector('.group').classList.add('visible');
+      // document.querySelector('.overlap-group').classList.add('visible');
     </script>
     
   </body>

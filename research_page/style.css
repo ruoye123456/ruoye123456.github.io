@@ -120,12 +120,12 @@
   position: absolute;
   top: 289px;
   left: 808px;
-  font-family: "Microsoft YaHei UI-Bold", Helvetica;
-  font-weight: 700;
-  color: #333333;
-  font-size: 20px;
+  color: #000000;
+  line-height: 30px;
+  font-weight: 300;
+  font-size: 16px;
   letter-spacing: 0;
-  line-height: normal;
+  font-family: "Microsoft YaHei UI";
 }
 
 .RESEARCH .text-wrapper-5 {
@@ -663,4 +663,44 @@
   text-align: center;
   letter-spacing: 0;
   line-height: normal;
+}
+
+#post-23 strong {
+  font-weight: bold !important;
+}
+
+#post-23 h3 {
+  font-size: 20px;
+  font-weight: bold;
+  margin-left: 0; /* 最靠左 */
+}
+
+#post-23 h4 {
+  font-size: 18px;
+  font-weight: bold;
+  margin-left: 0px; /* 比 h3 稍微缩进 */
+  margin-top: 25px;
+  margin-bottom: 15px;
+}
+
+#post-23 ul {
+  list-style-type: disc; 
+  margin-left: 6px;  /* 整个列表比 h4 再靠右 */
+  padding-left: 20px; /* 控制列表符号和文字的距离 */
+}
+
+#post-23 li {
+  margin-bottom: 8px; /* 列表项之间加点间距 */
+  line-height: 1.5;
+}
+
+#post-23 li a {
+  color: deepskyblue;   /* 天蓝色 */
+  text-decoration: underline;  /* 下划线 */
+}
+
+/* 如果想鼠标悬停时更明显，可以加上 */
+#post-23 li a:hover {
+  color: dodgerblue;    /* 深一点的蓝 */
+  text-decoration: underline;
 }

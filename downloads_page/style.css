@@ -10,7 +10,7 @@
     background-color: #ffffff;
     overflow: hidden;
     width: 1920px;
-    height: 5791px;
+    height: 6291px;
     position: relative;
   }
   
@@ -127,7 +127,7 @@
   .DOWNLOADS .text-wrapper-4 {
     position: absolute;
     width: 253px;
-    top: 5412px;
+    top: 5912px;
     left: 808px;
     font-family: "Microsoft YaHei UI-Bold", Helvetica;
     font-weight: 700;
@@ -139,7 +139,7 @@
   
   .DOWNLOADS .text-wrapper-5 {
     position: absolute;
-    top: 289px;
+    top: 389px;
     left: 808px;
     font-family: "Microsoft YaHei UI-Bold", Helvetica;
     font-weight: 700;
@@ -152,7 +152,7 @@
   .DOWNLOADS .sketch-a-net-trained {
     position: absolute;
     width: 783px;
-    top: 5457px;
+    top: 5957px;
     left: 808px;
     font-family: "Microsoft YaHei UI-Regular", Helvetica;
     font-weight: 400;
@@ -178,7 +178,7 @@
   .DOWNLOADS .sketch-me-that-shoe {
     position: absolute;
     width: 783px;
-    top: 5502px;
+    top: 6002px;
     left: 808px;
     font-family: "Microsoft YaHei UI-Regular", Helvetica;
     font-weight: 400;
@@ -191,7 +191,7 @@
   .DOWNLOADS .free-hand-sketch {
     position: absolute;
     width: 783px;
-    top: 5547px;
+    top: 6047px;
     left: 808px;
     font-family: "Microsoft YaHei UI-Regular", Helvetica;
     font-weight: 400;
@@ -204,7 +204,7 @@
   .DOWNLOADS .fine-grained-sketch {
     position: absolute;
     width: 783px;
-    top: 5592px;
+    top: 6092px;
     left: 808px;
     font-family: "Microsoft YaHei UI-Regular", Helvetica;
     font-weight: 400;
@@ -218,7 +218,7 @@
     position: absolute;
     width: 1920px;
     height: 73px;
-    top: 5718px;
+    top: 6218px;
     left: 0;
     background-color: #000000;
   }
@@ -798,3 +798,62 @@
     line-height: normal;
   }
   
+  .DOWNLOADS .group-8 {
+    position: absolute;
+    width: 1033px;
+    height: 526px;
+    top: 5343px;
+    left: 808px;
+  }
+  
+  .DOWNLOADS .overlap-9 {
+    position: relative;
+    width: 1031px;
+    height: 526px;
+  }
+  
+  .DOWNLOADS .SketchX-PRIS-Dataset {
+    top: 466px;
+    position: absolute;
+    width: 487px;
+    left: 271px;
+    font-family: "Microsoft YaHei UI-Light", Helvetica;
+    font-weight: 300;
+    color: transparent;
+    font-size: 18px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .DOWNLOADS .rectangle-10 {
+    height: 506px;
+    position: absolute;
+    width: 1031px;
+    top: 0;
+    left: 0;
+    border: 1px solid;
+    border-color: #b3b3b3;
+    box-shadow: 0px 4px 10px #0000001a;
+    pointer-events: none;
+  }
+
+  .DOWNLOADS .image-8 {
+    position: absolute;
+    width: 1024px;
+    height: 434px;
+    top: 2px;
+    left: 3px;
+    object-fit: cover;
+    pointer-events: none;
+  }
+
+  .DOWNLOADS .text-wrapper-21 {
+    color: #04a3ed;
+    text-decoration: underline;
+  }
+
+  .DOWNLOADS .text-wrapper-22 {
+    color: #04a3ed;
+  }
